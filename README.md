@@ -10,6 +10,10 @@ Aplicacion web para transformar un JSON en un formulario dinamico y mostrar la s
 - Panel de salida para visualizar el JSON resultante.
 - Utilidades para detectar tipos JSON y mantener consistencia de datos.
 
+## Imagen
+<img width="1920" height="1440" alt="json-to-dynamic-form" src="https://github.com/user-attachments/assets/4b3948ef-2028-4a2e-b331-75dedb9d4b76" />
+
+
 ## Desarrollo
 
 1. Instalar dependencias: `npm install`
